@@ -1,3 +1,15 @@
+/* EFFICIENT SOLUTION BY BRAIN KERNINGAMS ALGORITHMS */
+int sol(int n)
+{
+    int res=0;
+    while(n>0){
+        n=(n&(n-1));
+        res++;
+    }
+    return res;
+}
+
+
 #include <iostream>
 
 using namespace std;
