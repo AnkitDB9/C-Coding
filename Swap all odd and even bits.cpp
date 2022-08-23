@@ -1,6 +1,7 @@
 class Solution
 {
     public:
+    //using bits
     //Function to swap odd and even bits.
     unsigned int swapBits(unsigned int n)
     {
