@@ -1,4 +1,4 @@
-//more fast 
+//more fast ...
 
 class Solution {
 public:
